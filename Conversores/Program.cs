@@ -38,12 +38,6 @@ namespace Conversores
                 Console.ReadKey();
 
             #endregion
-
-
-
-
-
-
         }
     }
 }
